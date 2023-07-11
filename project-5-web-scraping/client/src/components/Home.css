@@ -1,0 +1,32 @@
+
+.company-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table-header th {
+    padding: 8px;
+    background-color: #f2f2f2;
+  }
+  
+  .table-body td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .table-row:last-child td {
+    border-bottom: none;
+  }
+  .full{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: bisque;
+  }
+  .full h1{
+    margin-top:10px;
+    margin-bottom: 20px;
+  }

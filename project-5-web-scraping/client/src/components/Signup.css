@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.sign_up{
+    color: rgb(15, 11, 11);
+    font-size: larger;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 70px;
+    position: relative;
+}
+.name1{
+    padding:10px 50px;
+    padding-left:3px;
+    border:1px solid;
+    margin-bottom: 6px;
+    background-color: white;
+}
+.name{
+    position: relative;
+   border: none;
+   margin-left: 3px;;
+   outline: none; 
+   
+  
+}
+.alr1{
+    color: black;
+    font-weight: 00;
+}
+.alr{
+    font-weight: 600;
+}
+.error-message {
+    color: red;
+    margin-top: 5px;
+  }
+  
